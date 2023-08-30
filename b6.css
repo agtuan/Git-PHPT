@@ -1,0 +1,32 @@
+
+div{
+    background-color: orangered;
+    border: 1px;
+    margin: 0;
+   
+    
+    
+
+}
+div h2{
+    color: white;
+    font-size: 20px;
+    border: 0;
+    padding-top: 25px;
+    margin-left: 15px;
+   
+}
+div p{
+    color: black;
+    font-size: 25px;
+    border: 0;
+    padding-bottom: 35px;
+    margin-left: 13px;
+    
+}
+footer{
+    border: 1px;
+    background-color: yellow;
+    
+    font-size: 25px;
+}
